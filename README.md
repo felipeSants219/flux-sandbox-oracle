@@ -1,6 +1,15 @@
 # Welcome to 4AI project
 
 ## Project info
+##  Alterar o Favicon da Aba do Navegador
+
+
+
+
+<link rel="icon" type="image/png" href="https://matheuscosta71.github.io/piblic/logotype.png">
+
+
+
 
 **URL**: https://lovable.dev/projects/05a8b8d9-f66f-4ee2-982a-675ea660ced5
 
